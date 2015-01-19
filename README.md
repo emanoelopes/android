@@ -1,4 +1,4 @@
-android
+Android
 =======
 
-Atividades da disciplina de Programação de Dispositivos Móveis.
+Atividades da disciplina de Programação de Dispositivos Móveis da Estácio FIC do Ceará.
