@@ -1,4 +1,4 @@
 Android
 =======
 
-Atividades da disciplina de Programação de Dispositivos Móveis da Estácio FIC do Ceará.
+Repositório de material de estudo em Android.
